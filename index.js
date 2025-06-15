@@ -1,7 +1,7 @@
 function add(a, b) {
   return a + b;
 }
-console.log(add(12, 3));
+console.log(add(11, 3));
 
 function subtract(a, b) {
   return a - b;
